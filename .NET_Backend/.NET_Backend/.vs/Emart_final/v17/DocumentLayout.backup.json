@@ -1,0 +1,384 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\emart_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:emart_final.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\controllers\\invoicedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:controllers\\invoicedetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\controllers\\configdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:controllers\\configdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\services\\invoicedetailsfolder\\invoicedetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:services\\invoicedetailsfolder\\invoicedetailsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\models\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:models\\invoicedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\migrations\\20230903065323_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:migrations\\20230903065323_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|c:\\users\\pravin\\desktop\\project\\final\\.net(backend)\\.net(frontend)\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B432D9F-0444-47F2-A20D-255F3ADB82CD}|Emart_final.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emart_final",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Emart_final.csproj",
+              "RelativeDocumentMoniker": "Emart_final.csproj",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Emart_final.csproj*",
+              "RelativeToolTip": "Emart_final.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T06:27:36.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Repository\\AppDbContext.cs",
+              "RelativeToolTip": "Repository\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:29:30.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvoiceDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\InvoiceDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceDetailsController.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\InvoiceDetailsController.cs",
+              "RelativeToolTip": "Controllers\\InvoiceDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\ConfigDetailsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigDetailsController.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\ConfigDetailsController.cs",
+              "RelativeToolTip": "Controllers\\ConfigDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:22:16.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigController.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "Controllers\\ConfigController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:22:09.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Controllers\\CartController.cs",
+              "RelativeToolTip": "Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceDetailsService.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Services\\InvoiceDetailsFolder\\InvoiceDetailsService.cs",
+              "RelativeDocumentMoniker": "Services\\InvoiceDetailsFolder\\InvoiceDetailsService.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Services\\InvoiceDetailsFolder\\InvoiceDetailsService.cs",
+              "RelativeToolTip": "Services\\InvoiceDetailsFolder\\InvoiceDetailsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:19:52.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Cart.cs",
+              "RelativeToolTip": "Models\\Cart.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T05:05:57.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvoiceDetails.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\InvoiceDetails.cs",
+              "RelativeDocumentMoniker": "Models\\InvoiceDetails.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\InvoiceDetails.cs",
+              "RelativeToolTip": "Models\\InvoiceDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Invoice.cs",
+              "RelativeToolTip": "Models\\Invoice.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-19T05:00:49.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20230903065323_First.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Migrations\\20230903065323_First.cs",
+              "RelativeDocumentMoniker": "Migrations\\20230903065323_First.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Migrations\\20230903065323_First.cs",
+              "RelativeToolTip": "Migrations\\20230903065323_First.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\PRAVIN\\Desktop\\PROJECT\\Final\\.NET(backend)\\.NET(frontend)\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T05:00:49.252Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
